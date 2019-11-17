@@ -15,7 +15,7 @@ public class Pett
         tiger.cuteness();
         int speed = tiger.getSpeed();
         System.out.println("Speed of animal: " + speed);
-        System.out.println("Can my animal jump?: " + tiger.canJump());
+        System.out.println("Can my animal juump?: " + tiger.canJump());
 
         String output = tiger.toString();
         System.out.println("----------------------------------");

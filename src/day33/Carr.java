@@ -4,7 +4,7 @@ package day33;
 
 import java.util.ArrayList;
 
-public class Car1 {
+public class Carr {
     public static void main(String[] args) {
         System.out.println(" car");
     }
